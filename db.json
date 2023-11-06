@@ -1,0 +1,44 @@
+{
+  "listado": [
+    {
+      "IdClient": 1,
+      "totalAmountBilled": 500000.50
+    },
+    {
+      "IdClient": 2,
+      "totalAmountBilled": 750000.75
+    },
+    {
+      "IdClient": 3,
+      "totalAmountBilled": 650000.20
+    },
+    {
+      "IdClient": 4,
+      "totalAmountBilled": 825000.30
+    },
+    {
+      "IdClient": 5,
+      "totalAmountBilled": 950000.00
+    },
+    {
+      "IdClient": 6,
+      "totalAmountBilled": 720000.90
+    },
+    {
+      "IdClient": 7,
+      "totalAmountBilled": 880000.60
+    },
+    {
+      "IdClient": 8,
+      "totalAmountBilled": 610000.40
+    },
+    {
+      "IdClient": 9,
+      "totalAmountBilled": 770000.25
+    },
+    {
+      "IdClient": 10,
+      "totalAmountBilled": 920000.70
+    }
+  ]
+}
