@@ -2,7 +2,7 @@
   "listado": [
     {
       "IdClient": 1,
-      "totalAmountBilled": 500000.50
+      "totalAmountBilled": 50000.50
     },
     {
       "IdClient": 2,
@@ -22,7 +22,7 @@
     },
     {
       "IdClient": 6,
-      "totalAmountBilled": 720000.90
+      "totalAmountBilled": 7200.90
     },
     {
       "IdClient": 7,
@@ -38,7 +38,7 @@
     },
     {
       "IdClient": 10,
-      "totalAmountBilled": 920000.70
+      "totalAmountBilled": 9200
     }
   ]
 }
