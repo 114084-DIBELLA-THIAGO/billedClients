@@ -1,23 +1,23 @@
 {
   "listado": [
     {
-      "nro_doc": 56789012,
+      "nroDoc": 56789012,
       "totalAmountBilled": 500000.50
     },
     {
-      "nro_doc": 45678901,
+      "nroDoc": 45678901,
       "totalAmountBilled": 7500.75
     },
     {
-      "nro_doc": 34567890,
+      "nroDoc": 34567890,
       "totalAmountBilled": 650000.20
     },
     {
-      "nro_doc": 23456789,
+      "nroDoc": 23456789,
       "totalAmountBilled": 82500.30
     },
     {
-      "nro_doc": 87654321,
+      "nroDoc": 87654321,
       "totalAmountBilled": 950000.00
     }
   ]
